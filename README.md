@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vachaspati Annaldas<br>🚀 I'm a Full Stack Developer<br>✨ I like writing clean code and creating useful projects<br>📚 I enjoy learning new technologies<br>🤝 I like working with teams and improving my skills.
+👋 Hi, I'm Vachaspati Annaldas<br>🚀 I'm a Full Stack Developer<br>✨ I like writing clean code and creating useful projects<br>📚 I enjoy learning new technologies<br>🤝 I like working with teams and improving my skills
 
 
 ## 🌐 Socials:
